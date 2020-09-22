@@ -26,19 +26,6 @@ password:admin
 
 Funkcionalnosti:
 
-Neregistrovani korisnik ima sljedeće funkcionalnosti:
- - login/register
- - pregled knjiga, detalja o knjigama i komentara
-Registrovani korisnik ima sljedeće funkcionalnosti:
- - kupovanje knjiga
- - davanje ratinga knjigama
- - komentarisanje knjiga
- - pregled profila korisnika
- - historija kupovine
- - kreiranje liste favorita knjiga
- - promjena avatara
-Administrator ima sljedeće funkcionalnosti:
- - Dodavanje, izmjena i brisanje knjiga iz aplikacije
- - izmjena ili brisanje komentara korisnika
- - mogucnost blokiranja korisnika
- - promjena neprimjenjljivih korisnickih avatara
+- Neregistrovani korisnik:login/register, pregled knjiga, detalja o knjigama i komentara
+- Registrovani korisnik: kupovanje knjiga, davanje ratinga knjigama, komentarisanje knjiga, pregled profila korisnika, historija kupovine, kreiranje liste favorita knjiga, promjena avatara
+- Administrator ima sljedeće funkcionalnosti:Dodavanje, izmjena i brisanje knjiga iz aplikacije, izmjena ili brisanje komentara korisnika, mogucnost blokiranja korisnika,promjena neprimjenjljivih korisnickih avatara
