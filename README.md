@@ -1,7 +1,7 @@
 # Book Store
 ETF UNSA DRAOS project 2019/2020
 Da bi projekat funkcionisao, potrebno je instalirati:
-[Mongo DB]˙(https://www.mongodb.com/try/download/community)
+[Mongo DB](https://www.mongodb.com/try/download/community)
 [NodeJS](https://nodejs.org/en/download/) 
 
 Projekat se sastoji iz dva dijela: klijent i server. 
