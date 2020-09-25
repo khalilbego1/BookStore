@@ -14,8 +14,8 @@ Potrebno je prvo pokrenuti server (može se jednostavno ostvariti pokretanjem sl
 Ove skripte se nalaze u folderu server.
 
 Nakon toga, potrebno je pokrenuti klijenta (kao i iznad, može se ostvariti pokretanjem skripti):
-1. instalirati sve potrebne library-e (pokretanje skripte *2-npm install*)
-2. pokrenuti klijenta (pokretanje skripte *3-start client*)
+1. instalirati sve potrebne library-e (pokretanje skripte *1-npm install*)
+2. pokrenuti klijenta (pokretanje skripte *2-start client*)
 
 Baza podataka je po defaultu prazna, i sadrži dva već kreirana korisnika:
 username:user
